@@ -1,0 +1,26 @@
+
+REGIONAL ENVIRONMENTAL CHANGE
+
+NO ET AL SPRINGER STYLE FOR ZOTERO
+
+modification takes place at lines 145-154
+
+<group prefix=". ">
+                
+<group delimiter=" ">
+                  
+<text variable="container-title" form="short" strip-periods="true"/>
+                  
+<group delimiter=":">
+                    
+<text variable="volume" suffix=":"/>
+                    
+<text variable="page" suffix="."/>
+                  
+</group>
+                  
+<text prefix="doi: " variable="DOI"/>
+                
+</group>
+              
+</group>
